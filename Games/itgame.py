@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 #-*- coding: UTF-8 -*-
 # 1 - Import library
 import pygame

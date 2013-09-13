@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 # Creating and using a function that returns a value
 # Function to calculate tax and return the total
 

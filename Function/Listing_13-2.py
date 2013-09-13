@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 # Passing an argument to a function
 
 # define a function with an argument
