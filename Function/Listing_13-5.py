@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 # Trying to print a local variable
 
 # Function to calculate tax and return the total

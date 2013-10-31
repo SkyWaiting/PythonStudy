@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 
 # Function with two arguments
 

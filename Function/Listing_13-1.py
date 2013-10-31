@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 # creating and using a function
 def printMyAddress():
     print "Warren Sande"

@@ -1,4 +1,4 @@
-__author__ = 'admin'
+__author__ = 'guorui'
 
 # Trying to modify a global variable inside a function
 
